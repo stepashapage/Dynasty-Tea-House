@@ -1,0 +1,164 @@
+.main {
+    padding-bottom: 160px;
+}
+
+.main__container {
+    margin-top: 15px;
+}
+
+.wrapper__icons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 20px;
+    overflow: hidden;
+    overflow-x: scroll;
+}
+
+.wrapper__promotion {
+    display: flex;
+    gap: 30px;
+}
+
+.wrapper__icons::-webkit-scrollbar {
+    width: 0;
+    display: none;
+}
+
+.icon-list {
+    display: inline-block;
+    vertical-align: top;
+    cursor: pointer;
+    position: relative;
+}
+
+.icon-list img{
+    border-radius: 15px;
+}
+
+/*Блок с каталогом*/
+
+.main__container-border {
+    border-top: 1px solid #000;
+}
+
+.gps-img {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.main_container-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    gap: 15px;
+}
+
+.wrapper-gps {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.wrapper-catalog_item {
+    border-top: 1px solid #000;    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    cursor: pointer;
+}
+
+/*Блок с тенью*/
+
+.main-wrapper-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 0 10px 10px;
+    gap: 5px;
+    height: 226px;
+    box-shadow: 0px 1px 12px rgba(96,97,112,.2);
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.promotion-text {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 20px;
+    width: 320px;
+    height: 100%;
+    padding: 0 10px;
+}
+
+.promotion-name {
+    display: flex;
+    gap: 10px;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.promotion_timer-month, .promotion_timer-week, .promotion_timer-day{
+    color: red;
+}
+
+.promotion_img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.promotion_info {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.star {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.price {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button_buy {
+    width: 40px;
+    height: 30px;
+    background-color: #2fab66;
+    border-radius: 5px;
+    border: 0;
+}
+
+.price-discount {
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    gap: 3px;
+}
+
+.old-price {
+    text-decoration: line-through;
+}
+
+.new-price {
+    color: red;
+}

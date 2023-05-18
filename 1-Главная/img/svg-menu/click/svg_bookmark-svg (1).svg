@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 19" width="13" height="19">
+	<title>svg_bookmark-svg</title>
+	<defs>
+		<image  width="13" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAATCAMAAAB86XelAAAAAXNSR0IB2cksfwAAAIdQTFRFAAAAAAAAAAAAAAAAAAAAL6pmL6tmL6tmAAAAAAAAL6tmL6tmL6tmL6tmL6pmAAAAL6pmAAAAAAAAAAAAAAAAAAAAL6tmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQMCAAAAAAAAL6tmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFXkRwAAAC10Uk5T0ubl2f76+/785P38+f/78/3/zLcAl/Xo197F8unfnu269NrApRcGvcEr4VlE9E5aPwAAAJlJREFUeJw1jdcCwjAIAGm0wUJR0TjqXnX///cJqb2nXI4QgCL0FAMYltEojYgjqIipJkQR4QoCMtsZDQoQSATJIopbHvIWxY3QxbKb5Cm7YMxmW5n53yJzHo3eyuiR/GXeiTKeTNH+7Yx0pl6z1TpPC126rbBeNymlzTbiDvZ80OQcT+cLXG/aZrvr4wmqr9TRqsL7k3q+zQ9nmwviRHFjEAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="svg__bookmark" href="#img1" x="0" y="0"/>
+</svg>

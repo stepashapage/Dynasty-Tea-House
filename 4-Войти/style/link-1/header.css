@@ -1,0 +1,56 @@
+.header__container {
+    margin-top: 10px;
+}
+
+.header__container-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.header_wrapper-logo {
+    font-size: 24px;
+    font-weight: 600;
+    
+}
+
+.logo-1 {
+    color: var(--basic-1);
+}
+
+.logo-2 {
+    color: var(--basic-2);
+}
+
+.logo-3 {
+    color: var(--basic-3);
+}
+
+.header_wrapper-search {
+    position: relative;
+    width: 70%;
+}
+
+.header_wrapper-search input{
+    padding: 0 10px;
+    width: 100%;
+    height: 35px;
+    font-family: "Manrope-Bold";
+    font-size: 12px;
+    border: 2px solid var(--basic-1);
+    border-radius: 5px;
+}
+
+.header_wrapper-search input:focus {
+    border-color: var(--basic-3);
+}
+
+.header_wrapper-search label{
+    position: absolute;
+    right: 5%;
+    top: 30%;
+    opacity: 40%;
+}

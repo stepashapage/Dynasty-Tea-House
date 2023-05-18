@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 18" width="19" height="18">
+	<title>menu-outline-svg</title>
+	<defs>
+		<image  width="19" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAASCAMAAACO0hVbAAAAAXNSR0IB2cksfwAAAGZQTFRFAAAALaNhLqZjLaVjLaRiLaJhLJ9fAAAAKppcLaNhLaJhLaRiLaViJ5BWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALqhkL6pmL6plLqllLaVjLqdkLqdjwoa9aQAAACJ0Uk5Tzv7+/v7+/tv///////+BoZ+dGiEgAF5zcXDH/////////wgKQnYAAACASURBVHicpdDRDoIwDAXQCyqTDQGZAq7tYP//k84lxiXuwcTz0IfbNGkLVPXhWH2cGkCd21ZrY7rEGHNR6IfxmhuHHpO1t5y1E+7ffs7mZX3k1mWGI2YWIRJhJva+cXDbHoKPYYhim8kVZ//ZpXRb6Qeq8wkReXlVrYBaEnrb8QRKQBsCSCIXAgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="menu-outline" href="#img1" x="0" y="0"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19" width="19" height="19">
+	<title>svg_person-svg</title>
+	<defs>
+		<image  width="19" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAMAAABFjsb+AAAAAXNSR0IB2cksfwAAAKhQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAALqhkL6tmL6pmLKJgAAAAAAAALqdkAAAALaRhLqdkAAAAL6plAAAALaViLqllLaViAAAALaViAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALKFgLaNiAAAAAAAAAAAALaJhAAAAAAAAAQMCAwsGAAAAAAAALqdjAAAAAAAAAAAAAAAAAAAA5qtzNgAAADh0Uk5TACV8mn0mVP////5XM/81/P0E/wb8//00/zdZD2FiEBg+GQNYpd7//9+mcP5yAa2yAnf/eqm7YJ2L1hL6AAAAlklEQVR4nIXOyRaCMAxA0ahoEykq0TrgPM8z4P//mdXqocWFb5e7SAJgKhRLXhmcKgKRqr5NEt8FNcvqwmAjo5DxUzMz8WvQUoba1r4OI2nq9uzDvgpQiMh9sD/whiP431hO5NSaZ/PFcqVvrDfbKDS02ysiMs8QH7QcTwqdzhe4uoJ0u0OM+WJIBH9X8WsrYwLpI1/6BF9oDvcihz9TAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="svg__person" href="#img1" x="0" y="0"/>
+</svg>

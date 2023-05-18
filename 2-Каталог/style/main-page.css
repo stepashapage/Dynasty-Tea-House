@@ -1,0 +1,33 @@
+@import './link-1/header.css';
+@import './link-1/main.css';
+@import './link-1/footer.css';
+
+.main{
+    background-color: #fff;
+    padding: 0px 10px 70px 10px;
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #fff;
+    padding: 0px 10px;
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+:root {
+    --basic-1: #76856e;
+    --basic-2: #8e7734;
+    --basic-3: #4a5656;
+}
+
+@font-face {
+    font-family: "Manrope-Bold";
+    src: url(../../font/Manrope-Bold.ttf);
+}
+
+.body {
+    font-family: "Manrope-Bold";
+    font-size: 12px;
+}

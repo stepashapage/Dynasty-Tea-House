@@ -1,0 +1,42 @@
+.footer__wrapper {
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 5vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-button {
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: #fff;
+    border-top: 1px solid #000;
+}
+
+@media (width < 342px) {
+    .footer__wrapper {
+        height: 100px;
+    }
+}
+
+@media (width < 394px) {
+    .footer__wrapper {
+        column-gap: 2vw;
+    }
+}
+
+.footer-button p{
+    font-family: "Manrope-Bold";
+    font-size: 12px;
+}
